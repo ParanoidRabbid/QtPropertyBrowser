@@ -1,5 +1,6 @@
+#This CMakeLists.txt is for Qt5 subproject usage only
 PROJECT(PropertyBrowser)
-SET(QT_MIN_VERSION "4.5.0")
+SET(QT_MIN_VERSION "5.0.0")
 find_package(qt5 COMPONENTS Qt5Widgets REQUIRED)
 
 
