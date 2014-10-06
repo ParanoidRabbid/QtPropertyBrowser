@@ -38,17 +38,17 @@
 ****************************************************************************/
 
 #include "qtcanvas.h"
-#include <QtGui/QApplication>
-#include <QtGui/QBitmap>
-#include <QtGui/QDesktopWidget>
-#include <QtGui/QImage>
-#include <QtGui/QPainter>
+#include <QApplication>
+#include <QBitmap>
+#include <QDesktopWidget>
+#include <QImage>
+#include <QPainter>
 #include <QtCore/QTimer>
 #include <QtCore/qhash.h>
 #include <QtCore/qset.h>
 #include <QtCore/qalgorithms.h>
-#include <QtGui/qevent.h>
-#include <QtGui/qpainterpath.h>
+#include <qevent.h>
+#include <qpainterpath.h>
 
 #include <stdlib.h>
 using namespace Qt;

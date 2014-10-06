@@ -37,9 +37,9 @@
 **
 ****************************************************************************/
 
-#include <QtGui/QApplication>
+#include <QApplication>
 #include <QtCore/QMap>
-#include <QtGui/QDoubleSpinBox>
+#include <QDoubleSpinBox>
 #include "qtpropertybrowser.h"
 #include "qteditorfactory.h"
 #include "qttreepropertybrowser.h"
